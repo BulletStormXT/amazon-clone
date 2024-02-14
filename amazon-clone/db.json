@@ -1,0 +1,388 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Mediaplayer",
+      "name": "Hidizs AP80 PRO-X",
+      "price": 273.96,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61NHbAsFsoL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Mediaplayer",
+      "name": "Sony Walkman NW-A306",
+      "price": 354.65,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61BD0wUd1uL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Mediaplayer",
+      "name": "HIFI WALKER H2 MP3-Player",
+      "price": 125.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61mmVSDsq5L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Mediaplayer",
+      "name": "FiiO M15S Audio-Player",
+      "price": 999.0,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61IRe8tbNAL._AC_SL1000_.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Mediaplayer",
+      "name": "Astell & Kern Audio-Player | A&Ultima SP3000",
+      "price": 4299.0,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51PZMUa5YyL._AC_SL1024_.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Mediaplayer",
+      "name": "MECHEN MP3-Player",
+      "price": 30.39,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71XVnr1xBsL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Mediaplayer",
+      "name": "Oilsky MP3-Player",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/614w22DwsWL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Mediaplayer",
+      "name": "Etacé MP3-Player",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61IKhvukvkL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Mediaplayer",
+      "name": "YOTON MP3-Player",
+      "price": 34.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61Vk4HtDoxL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Mediaplayer",
+      "name": "ZAQE MP3-Player",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71Gsa2zyAAL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Tablet",
+      "name": "Lenovo Tab M10 (3. Gen) Tablet | 10,1\" WUXGA Touch Display | Unisoc T610 | 4GB RAM | 64GB SSD | Android 13 | grau",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/61ChTpIyo2L._AC_UY218_.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Tablet",
+      "name": "Fire HD 2023 Tablet | 10,1\" 1080p Full HD Display | 32 GB | Schwarz | Mit Werbung",
+      "price": 99.99,
+      "image": "https://m.media-amazon.com/images/I/51-+258rwxL._AC_UY218_.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S9 Ultra 5G Tablet | 12,4\" Super AMOLED Display | 16 GB RAM | 1TB GB Speicher | S-Pen | Android 13 | Mystic Black",
+      "price": 1909,
+      "image": "https://m.media-amazon.com/images/I/61wvk-x+QEL._AC_UY218_.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Tablet",
+      "name": "Apple 2022 12,9\" iPad Pro (Wi-Fi + Cellular, 2 TB) - Silber (6. Generation)",
+      "price": 2714.99,
+      "image": "https://m.media-amazon.com/images/I/81rxOSprYqL._AC_UY218_.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Tablet",
+      "name": "Microsoft Surface Pro 9 | WiFi & 5G | 1TB | Platin | Windows®-Tablet | 13 Zoll (33cm) | 1.8GHz Intel® Core™ i7 | Windows 11",
+      "price": 1859,
+      "image": "https://m.media-amazon.com/images/I/51nAyoG7xsL._AC_SY450_.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Tablet",
+      "name": "Xiaomi Pad 6 | Tablet | 11\" | 8GB+128GB | 2880 * 1800 | 144hz Display | 8840mAh | WiFi | Gravity Gray",
+      "price": 332,
+      "image": "https://m.media-amazon.com/images/I/61stmTPwiLL._AC_UY218_.jpg"
+    },
+    {
+      "id": 17,
+      "category": "Tablet",
+      "name": "Google Pixel Tablet | Ladedock mit Lautsprecher | 11\" Display | 128 GB Speicher | Android | 8 GB RAM) – Porcelain",
+      "price": 679,
+      "image": "https://m.media-amazon.com/images/I/81kLM3QV9PL._AC_SX679_.jpg"
+    },
+    {
+      "id": 18,
+      "category": "Tablet",
+      "name": "Honor Pad X9 | 128 GB | 11.5\" | Qualcomm Snapdragon 4 Go | Wi-Fi 5 | Android 13 | Gris",
+      "price": 193,
+      "image": "https://m.media-amazon.com/images/I/71lcv0kCfkL._AC_UY218_.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Tablet",
+      "name": "Huawei MatePad Pro | 10,8\" | 256GB | Snapdragon 870 | 40W Supercharge | Wi-Fi 6 | Midnight Grey",
+      "price": 669,
+      "image": "https://m.media-amazon.com/images/I/71IoSAF5bEL._AC_UY218_.jpg"
+    },
+    {
+      "id": 20,
+      "category": "Tablet",
+      "name": "MEDION E10713 Tablet | 10 Zoll | Full HD | IPS | LTE | Android 10 | Quad Core Prozessor | USB Typ C | 3GB RAM | 64GB | WLAN | Bluetooth | 5MP Kamera | schwarz",
+      "price": 249.99,
+      "image": "https://m.media-amazon.com/images/I/71rOZvt1eCL._AC_UY218_.jpg"
+    },
+    {
+      "id": 21,
+      "category": "Smartphone",
+      "name": "Apple iPhone 15 Pro Max",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/81fYvFvX-8L._AC_UY218_.jpg"
+    },
+    {
+      "id": 22,
+      "category": "Smartphone",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71OOJdjWopL._AC_UY218_.jpg"
+    },
+    {
+      "id": 23,
+      "category": "Smartphone",
+      "name": "Asus ROG Phone 8 Pro",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/81kRnYUMQ5L._AC_UY218_.jpg"
+    },
+    {
+      "id": 24,
+      "category": "Smartphone",
+      "name": "Sony Xperia 5 V",
+      "price": 877,
+      "image": "https://m.media-amazon.com/images/I/8165PQGtt-L._AC_UY218_.jpg"
+    },
+    {
+      "id": 25,
+      "category": "Smartphone",
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "price": 351,
+      "image": "https://m.media-amazon.com/images/I/51DRuAKTvPL._AC_UY218_.jpg"
+    },
+    {
+      "id": 26,
+      "category": "Smartphone",
+      "name": "Google Pixel 8 Pro",
+      "price": 1020,
+      "image": "https://m.media-amazon.com/images/I/71HBgGfmUsL._AC_UY218_.jpg"
+    },
+    {
+      "id": 27,
+      "category": "Smartphone",
+      "name": "Redmagic 9 Pro",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/61h8kpNMqpL._AC_UY218_.jpg"
+    },
+    {
+      "id": 28,
+      "category": "Smartphone",
+      "name": "Honor Magic 5 Pro",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/71ZJ7aVRpYL._AC_UY218_.jpg"
+    },
+    {
+      "id": 29,
+      "category": "Smartphone",
+      "name": "Samsung Galaxy Z Fold 5",
+      "price": 1548,
+      "image": "https://m.media-amazon.com/images/I/71w42eF8UBL._AC_UY218_.jpg"
+    },
+    {
+      "id": 30,
+      "category": "Smartphone",
+      "name": "Motorola Moto Edge40 Pro",
+      "price": 755,
+      "image": "https://m.media-amazon.com/images/I/71NbcMrlZOL._AC_UY218_.jpg"
+    },
+    {
+      "id": 31,
+      "category": "Notebook",
+      "name": "Acer Aspire 5 (A517-53-53X3) Laptop | 17.3 Inch FHD Display | Intel Core i5-12450H | 16 GB RAM | 512 GB SSD | Intel UHD Graphics | Windows 11 | QWERTZ Keyboard | Grey",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/71DwIqm1QAL._AC_SX425_.jpg"
+    },
+    {
+      "id": 32,
+      "category": "Notebook",
+      "name": "Acer Aspire 3 (A315-24P-R9JA) Laptop | 15.6 FHD Display | AMD Ryzen 5 7520U | 16GB RAM | 512GB SSD | AMD Radeon Graphics | Windows 11 | QWERTZ Keyboard | Silver",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/61Oh1+TgNmL._AC_SX300_SY300_.jpg"
+    },
+    {
+      "id": 33,
+      "category": "Notebook",
+      "name": "Apple 2022 MacBook Air Laptop | M2 Chip: 13,6\" | Liquid Retina Display| 8GB RAM | 256 GB SSD Speicher | beleuchtete Tastatur | 1080p FaceTime HD Kamera | Kompatibel mit iPhone/iPad | Space Grau",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/71PWU942AIL._AC_SX679_.jpg"
+    },
+    {
+      "id": 34,
+      "category": "Notebook",
+      "name": "ACEMAGIC Laptop | 15.6 Inch FHD Metal Casing | 16GB DDR4 | 512GB SSD Notebook Computer | Intel 12th Alder Lake Quad-Core N95 (3.40GHz) Beats N5095, Lightweight Laptop with WiFi, BT5.0, USB 3.2 x 2, Type C,",
+      "price": 369.99,
+      "image": "https://m.media-amazon.com/images/I/714vs7F41IL._AC_SX679_.jpg"
+    },
+    {
+      "id": 35,
+      "category": "Notebook",
+      "name": "Lenovo 15.6 Inch HD+ Notebook | Intel N4020 2 x 2.80 GHz | 8GB DDR4 | 512 GB SSD | Intel UHD 600 | HDMI | Webcam | Bluetooth | USB 3.0 | WLAN | Windows 11 Prof. 64 Bit",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/51LkNOI6+lL._AC_SX679_.jpg"
+    },
+    {
+      "id": 36,
+      "category": "Notebook",
+      "name": "HP Laptop | 17.3 Inch HD+ Display | Intel Celeron N4120 | 8 GB DDR4 RAM | 256 GB SSD | Intel UHD Graphics | Windows 11 | QWERTZ | Black",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/81Sr-jDlmiL._AC_SX679_.jpg"
+    },
+    {
+      "id": 37,
+      "category": "Notebook",
+      "name": "Tuofudun 13.5 Inch | Intel | N100 | Ultra Thin Laptop",
+      "price": 608,
+      "image": "https://m.media-amazon.com/images/I/71yrLh9XTUL._AC_SX679_.jpg"
+    },
+    {
+      "id": 38,
+      "category": "Notebook",
+      "name": "WOZIFAN Laptop | 256GB | Extends 1TB SSD | Win11 | Notebook | Intel",
+      "price": 229.49,
+      "image": "https://m.media-amazon.com/images/I/61fALPpxg9L._AC_SX425_.jpg"
+    },
+    {
+      "id": 39,
+      "category": "Notebook",
+      "name": "MSI Katana 17 B13VGK-671 | Gaming Laptop | 17.3 Inch FHD | 144Hz | Intel Core i9-13900H | 16GB DDR5-5200 | 1TB GB SSD | NVIDIA GeForce RTX 4070 | Windows 11 Home | QWERTZ Keyboard | Black",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71IK2RLhJiL._AC_SX425_.jpg"
+    },
+    {
+      "id": 40,
+      "category": "Notebook",
+      "name": "Lenovo LOQ Gaming Laptop | 15.6 Inch FHD Display | AMD Ryzen 5 7640HS | 16GB DDR5 RAM | 1TB M2 SSD | NVIDIA GeForce RTX 4050 | QWERTZ Keyboard | Windows 11 Home | Grey",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/81L9oKmRaXL._AC_SX425_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "user 1",
+      "email": "",
+      "password": "001"
+    },
+    {
+      "id": 2,
+      "name": "user 2",
+      "email": "",
+      "password": "012"
+    },
+    {
+      "id": 3,
+      "name": "user 3",
+      "email": "",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "name": "user 4",
+      "email": "",
+      "password": "234"
+    },
+    {
+      "id": 5,
+      "name": "user 5",
+      "email": "",
+      "password": "345"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "products": [
+        {
+          "id": 3,
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "products": [
+        {
+          "id": 5,
+          "quantity": 5
+        },
+        {
+          "id": 6,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "products": [
+        {
+          "id": 7,
+          "quantity": 7
+        },
+        {
+          "id": 8,
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "products": [
+        {
+          "id": 9,
+          "quantity": 9
+        },
+        {
+          "id": 10,
+          "quantity": 10
+        }
+      ]
+    }
+  ]
+}
