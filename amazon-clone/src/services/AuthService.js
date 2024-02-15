@@ -1,8 +1,8 @@
-import data from "../db.json";
+import products from "../db.json";
 
 const AuthService = {
   login: (username, password) => {
-    const user = data.users.find(
+    const user = products.users.find(
       (user) => user.name === username && user.password === password
     );
     return user;

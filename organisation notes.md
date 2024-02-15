@@ -1,16 +1,18 @@
-## Hinweise von Ari:
+# Amazon Clone
 
-Bilder im public ordner
+## Hinweise von Ari
+
+Bilder im public Ordner
 Jeder sollte ca. 10 Produkte im json erstellen und mit users und orders zuordnen (für jeden )
 Wir haben 40 Produkte mit 5 Userdaten (users, orders)
 Jeder sucht 10 Produkte für Elektronik zusammen mit Namen, Bild und Preis
 (mp3player, Tablets, Smartphones und Laptops ✔)
 
-# Packages
+## Packages
 
-TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --save-dev
+TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --save-dev, postcss-loader
 
-## Arbeitsaufträge:
+## Arbeitsaufträge
 
 1. Warenkorb
 2. Benutzerauthentifizierung
@@ -19,15 +21,17 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 5. Json Server (angefangen, betriebsbereit)
 6. Navigation, routes, pages imports/exports
 
-## Planungsschritte:
+## Planungsschritte
 
 Entscheidung über (tendenz live-share) oder mit branches arbeiten
 Entscheidung cra
 Entscheidung Tailwind und/oder Bootstrap
 Tailwind installiert
-Icons über bootstrap icons oder fortawesome
+Icons über React-Fontawesome
+desktop first, mobile später responsive anpassen
+einheitliche font-family, colour swatches etc.
 
-# ChatGPT Plan
+## ChatGPT Plan
 
 Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Dieser Plan gliedert sich in verschiedene Arbeitsschritte, die du bei der Entwicklung berücksichtigen kannst:
 
@@ -74,6 +78,6 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
     • Iteriere über deine Anwendung und aktualisiere sie entsprechend.
     Dieser Plan ist recht allgemein gehalten und kann je nach den Anforderungen und dem Umfang deines Projekts angepasst werden. Viel Erfolg bei der Entwicklung deines Amazon-Klons mit React!
 
-### Todos
+### Todo
 
 - [ ] Position Fixed am Ende aus dem Footer wieder entfernen

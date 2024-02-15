@@ -1,5 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
+import { FaShoppingCart } from "react-icons/fa";
 
 const Navigation = () => {
   return (
@@ -8,22 +9,25 @@ const Navigation = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <NavLink to="/">Home</NavLink>
           </li>
           <li>
-            <Link to="/products">Products</Link>
+            <NavLink to="/products">Products</NavLink>
           </li>
           <li>
-            <Link to="/cart">Cart</Link>
+            <NavLink to="/cart">
+              <FaShoppingCart />
+              Cart
+            </NavLink>
           </li>
           <li>
-            <Link to="/login">Login</Link>
+            <NavLink to="/login">Login</NavLink>
           </li>
           <li>
-            <Link to="/register">Register</Link>
+            <NavLink to="/register">Register</NavLink>
           </li>
           <li>
-            <Link to="/checkout">Checkout</Link>
+            <NavLink to="/checkout">Checkout</NavLink>
           </li>
         </ul>
       </nav>

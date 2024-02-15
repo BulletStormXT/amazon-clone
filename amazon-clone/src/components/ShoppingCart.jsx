@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
-import { CartContext } from "./context/CartContext";
+import { CartContext } from "../context/CartContext";
 
 const ShoppingCart = () => {
-  const { cartItems, removeItems } = useContext(CartContext);
+  const { cartItems, removeItem } = useContext(CartContext);
 
   return (
     <div className="shopping-cart">
@@ -22,3 +22,5 @@ const ShoppingCart = () => {
     </div>
   );
 };
+
+export default ShoppingCart;
