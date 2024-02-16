@@ -43,33 +43,39 @@ const Checkout = ({ cartItems }) => {
       <h2>Checkout</h2>
       <form onSubmit={handleSubmit}>
         <div>
-          <label>Name:</label>
-          <input
-            type="text"
-            name="name"
-            value={formData.name}
-            onChange={handleChange}
-            required
-          />
+          <label>
+            Name:
+            <input
+              type="text"
+              name="name"
+              value={formData.name}
+              onChange={handleChange}
+              required
+            />
+          </label>
         </div>
         <div>
-          <label>Email:</label>
-          <input
-            type="email"
-            name="email"
-            value={formData.email}
-            onChange={handleChange}
-            required
-          />
+          <label>
+            Email:
+            <input
+              type="email"
+              name="email"
+              value={formData.email}
+              onChange={handleChange}
+              required
+            />
+          </label>
         </div>
         <div>
-          <label>Address:</label>
-          <textarea
-            name="address"
-            value={formData.address}
-            onChange={handleChange}
-            required
-          ></textarea>
+          <label>
+            Address:
+            <textarea
+              name="address"
+              value={formData.address}
+              onChange={handleChange}
+              required
+            ></textarea>
+          </label>
         </div>
         {error && <p className="error">{error}</p>}
         <button type="submit">Place Order</button>

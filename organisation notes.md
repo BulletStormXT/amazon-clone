@@ -23,13 +23,14 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 
 ## Planungsschritte
 
-Entscheidung über (tendenz live-share) oder mit branches arbeiten
-Entscheidung cra
+Wir arbeiten über liveshare, nutzen aber auch neben der main branch eine weitere refactoring branch
+Entscheidung Vite (cra verursacht errors postcss module not found und probs mit usecontext)
 Entscheidung Tailwind und/oder Bootstrap
 Tailwind installiert
-Icons über React-Fontawesome
+Icons über React-Icons/Fontawesome
 desktop first, mobile später responsive anpassen
 einheitliche font-family, colour swatches etc.
+Wir arbeiten mit react-router Version 6. Daher alle neue codes updaten (https://reactrouter.com/en/main/start/overview)
 
 ## ChatGPT Plan
 
@@ -81,3 +82,18 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 ### Todo
 
 - [ ] Position Fixed am Ende aus dem Footer wieder entfernen
+
+# CMD 4 Vite
+
+- [x] npm create vite@latest ./ -- --template react
+- [x] npm install -D tailwindcss
+- [x] npx tailwindcss init
+- [x] npm install --legacy-peer-deps -D postcss autoprefixer
+- [x] npx tailwindcss init -p
+- [x] npm install react-router-dom
+- [x] npm install axios
+- [x] npm install react-icons
+
+Danke @VCorvinus hab es schon mal mithilfe deiner Liste soweit installiert ;-)
+
+json server, concurrently nodemon --save-dev ?
