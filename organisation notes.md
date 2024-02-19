@@ -29,8 +29,8 @@ Entscheidung Tailwind und/oder Bootstrap
 Tailwind installiert
 Icons über React-Icons/Fontawesome
 desktop first, mobile später responsive anpassen
-einheitliche font-family, colour swatches etc.
-Wir arbeiten mit react-router Version 6. Daher alle neue codes updaten (https://reactrouter.com/en/main/start/overview)
+einheitliche font-family, color swatches etc.
+Wir arbeiten mit react-router Version 6. Daher alle neue codes updaten [](https://reactrouter.com/en/main/start/overview)
 
 ## ChatGPT Plan
 
@@ -83,7 +83,7 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 
 - [ ] Position Fixed am Ende aus dem Footer wieder entfernen
 
-# CMD 4 Vite
+## CMD 4 Vite
 
 - [x] npm create vite@latest ./ -- --template react
 - [x] npm install -D tailwindcss
@@ -93,7 +93,7 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 - [x] npm install react-router-dom
 - [x] npm install axios
 - [x] npm install react-icons
+- [x] npm install json-server
+- [x] npm install concurrently nodemon --save-dev
 
 Danke @VCorvinus hab es schon mal mithilfe deiner Liste soweit installiert ;-)
-
-json server, concurrently nodemon --save-dev ?
