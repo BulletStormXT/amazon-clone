@@ -97,3 +97,5 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 - [x] npm install concurrently nodemon --save-dev
 
 Danke @VCorvinus hab es schon mal mithilfe deiner Liste soweit installiert ;-)
+
+npm run cdev (für das Öffnen von vite und json)
