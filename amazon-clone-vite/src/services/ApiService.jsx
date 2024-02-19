@@ -3,20 +3,10 @@
 import axios from "axios";
 
 const ApiService = {
-  getProducts: async () => {
-    try {
-      const response = await axios.get("http://localhost:5000/products");
-      return response.data;
-    } catch (error) {
-      console.error("Error fetching products:", error);
-      throw error;
-    }
-  },
-
   getUser: async (userId) => {
     try {
       const response = await axios.get(`http://localhost:5000/users/${userId}`);
-      return response.data;
+      return response;
     } catch (error) {
       console.error("Error fetching user:", error);
       throw error;
@@ -29,7 +19,7 @@ const ApiService = {
         "http://localhost:5000/orders",
         orderData
       );
-      return response.data;
+      return response;
     } catch (error) {
       console.error("Error submitting order:", error);
       throw error;
@@ -38,3 +28,6 @@ const ApiService = {
 };
 
 export default ApiService;
+
+// no return -> useState
+// 9 19 32
