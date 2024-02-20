@@ -7,14 +7,13 @@ import Header from "./components/Header/Header";
 import { Routes, Route } from "react-router-dom";
 import routes from "./components/Routes/Routes";
 
-
 import axios from "axios";
 
 function App() {
   const [count, setCount] = useState(0);
   const [data, setData] = useState(null);
 
-  console.log(data);
+  // console.log(data);
   useEffect(() => {
     (async () => {
       try {
@@ -27,13 +26,13 @@ function App() {
       }
     })();
   }, []);
-  console.log(data);
+  // console.log(data);
   return (
     <>
       <header />
       <div>
         <Header />
-        <Home products={data} />
+        <Home products={data} className="homeBody" />
         {/* <Navigation /> */}
         <routes></routes>
       </div>
@@ -46,3 +45,9 @@ function App() {
 }
 
 export default App;
+
+<Home products={data} className="homeBody" />;
+{
+  /* <Navigation /> */
+}
+<routes></routes>;

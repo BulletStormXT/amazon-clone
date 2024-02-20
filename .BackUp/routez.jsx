@@ -1,10 +1,10 @@
-import Home from "../../pages/Home";
-import Login from "../../pages/Login";
-import Register from "../../pages/Register";
-import ProductList from "../../pages/ProductList";
-import ShoppingCart from "../../pages/ShoppingCart";
-import Checkout from "../../pages/Checkout";
-import PageNotFound from "../../pages/PageNotFound";
+import Home from "../amazon-clone-vite/src/pages/Home";
+import Login from "../amazon-clone-vite/src/pages/LoginPage";
+import Register from "../amazon-clone-vite/src/pages/Register";
+import ProductList from "../amazon-clone-vite/src/pages/ProductList";
+import ShoppingCart from "../amazon-clone-vite/src/pages/ShoppingCart";
+import Checkout from "../amazon-clone-vite/src/pages/Checkout";
+import PageNotFound from "../amazon-clone-vite/src/pages/PageNotFound";
 
 const routes = [
   {

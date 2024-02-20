@@ -66,3 +66,38 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  padding: 1em;
+  background-color: #ddd;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  gap: 0.5em;
+  padding: 1em;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 10px 5px 15px rgba(0, 46, 58, 0.3);
+  transition: transform 0.25s;
+  width: 280px;
+  height: 35em;
+}
+
+.product:hover {
+  transform: scale(1.08);
+}
+
+.product img {
+  width: 260px;
+  height: 280px;
+  object-fit: contain;
+  border-radius: 8px;
+}

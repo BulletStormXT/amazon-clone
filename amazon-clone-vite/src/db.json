@@ -222,63 +222,63 @@
       "category": "Notebook",
       "name": "Acer Aspire 3 (A315-24P-R9JA) Laptop | 15.6 FHD Display | AMD Ryzen 5 7520U | 16GB RAM | 512GB SSD | AMD Radeon Graphics | Windows 11 | QWERTZ Keyboard | Silver",
       "price": 599,
-      "image": "https://m.media-amazon.com/images/I/61Oh1+TgNmL._AC_SX300_SY300_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61Oh1+TgNmL._AC_SX450_.jpg"
     },
     {
       "id": 33,
       "category": "Notebook",
       "name": "Apple 2022 MacBook Air Laptop | M2 Chip: 13,6\" | Liquid Retina Display| 8GB RAM | 256 GB SSD Speicher | beleuchtete Tastatur | 1080p FaceTime HD Kamera | Kompatibel mit iPhone/iPad | Space Grau",
       "price": 1099,
-      "image": "https://m.media-amazon.com/images/I/71PWU942AIL._AC_SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71PWU942AIL._AC_SL1500_.jpg"
     },
     {
       "id": 34,
       "category": "Notebook",
       "name": "ACEMAGIC Laptop | 15.6 Inch FHD Metal Casing | 16GB DDR4 | 512GB SSD Notebook Computer | Intel 12th Alder Lake Quad-Core N95 (3.40GHz) Beats N5095, Lightweight Laptop with WiFi, BT5.0, USB 3.2 x 2, Type C,",
       "price": 369.99,
-      "image": "https://m.media-amazon.com/images/I/714vs7F41IL._AC_SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71SoQFbjcAL._AC_SL1500_.jpg"
     },
     {
       "id": 35,
       "category": "Notebook",
       "name": "Lenovo 15.6 Inch HD+ Notebook | Intel N4020 2 x 2.80 GHz | 8GB DDR4 | 512 GB SSD | Intel UHD 600 | HDMI | Webcam | Bluetooth | USB 3.0 | WLAN | Windows 11 Prof. 64 Bit",
       "price": 299,
-      "image": "https://m.media-amazon.com/images/I/51LkNOI6+lL._AC_SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/51LkNOI6+lL._AC_.jpg"
     },
     {
       "id": 36,
       "category": "Notebook",
       "name": "HP Laptop | 17.3 Inch HD+ Display | Intel Celeron N4120 | 8 GB DDR4 RAM | 256 GB SSD | Intel UHD Graphics | Windows 11 | QWERTZ | Black",
       "price": 349,
-      "image": "https://m.media-amazon.com/images/I/81Sr-jDlmiL._AC_SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81Sr-jDlmiL._AC_SL1500_.jpg"
     },
     {
       "id": 37,
       "category": "Notebook",
       "name": "Tuofudun 13.5 Inch | Intel | N100 | Ultra Thin Laptop",
       "price": 608,
-      "image": "https://m.media-amazon.com/images/I/71yrLh9XTUL._AC_SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71yrLh9XTUL._AC_SL1500_.jpg"
     },
     {
       "id": 38,
       "category": "Notebook",
       "name": "WOZIFAN Laptop | 256GB | Extends 1TB SSD | Win11 | Notebook | Intel",
       "price": 229.49,
-      "image": "https://m.media-amazon.com/images/I/61fALPpxg9L._AC_SX425_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71kEzjACD1L._AC_SL1500_.jpg"
     },
     {
       "id": 39,
       "category": "Notebook",
       "name": "MSI Katana 17 B13VGK-671 | Gaming Laptop | 17.3 Inch FHD | 144Hz | Intel Core i9-13900H | 16GB DDR5-5200 | 1TB GB SSD | NVIDIA GeForce RTX 4070 | Windows 11 Home | QWERTZ Keyboard | Black",
       "price": 1699,
-      "image": "https://m.media-amazon.com/images/I/71IK2RLhJiL._AC_SX425_.jpg"
+      "image": "https://m.media-amazon.com/images/I/71IK2RLhJiL._AC_SL1500_.jpg"
     },
     {
       "id": 40,
       "category": "Notebook",
       "name": "Lenovo LOQ Gaming Laptop | 15.6 Inch FHD Display | AMD Ryzen 5 7640HS | 16GB DDR5 RAM | 1TB M2 SSD | NVIDIA GeForce RTX 4050 | QWERTZ Keyboard | Windows 11 Home | Grey",
       "price": 2999,
-      "image": "https://m.media-amazon.com/images/I/81L9oKmRaXL._AC_SX425_.jpg"
+      "image": "https://m.media-amazon.com/images/I/81L9oKmRaXL._AC_SL1500_.jpg"
     }
   ],
   "users": [

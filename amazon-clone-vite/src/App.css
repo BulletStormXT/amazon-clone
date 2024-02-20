@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1366px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -35,8 +35,18 @@
 
 .card {
   padding: 2em;
+  /* border-radius: 1em;
+  margin-top: 200px; */
 }
 
 .read-the-docs {
   color: #888;
+}
+
+.homeBody {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+  margin-top: 200px;
 }

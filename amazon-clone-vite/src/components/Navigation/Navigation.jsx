@@ -14,12 +14,12 @@ const Navigation = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/products">Products</NavLink>
+            <NavLink to="/products">ProductList</NavLink>
           </li>
           <li>
-            <NavLink to="/cart">
+            <NavLink to="/shoppingCart">
               <FaShoppingCart />
-              Cart
+              ShoppingCart
             </NavLink>
           </li>
           <li>

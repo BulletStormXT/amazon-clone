@@ -99,3 +99,9 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 Danke @VCorvinus hab es schon mal mithilfe deiner Liste soweit installiert ;-)
 
 npm run cdev (für das Öffnen von vite und json)
+
+Changed Login to LoginPage
+Corrected path in Routes
+Added LoginForm
+
+Bye, see ya later~!
