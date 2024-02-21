@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: #222;
-  background-color: #ddd;
+  background-color: #dddddd;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -73,7 +73,7 @@ button:focus-visible {
   gap: 1em;
   justify-content: center;
   padding: 1em;
-  background-color: #ddd;
+  background-color: #dddddd;
 }
 
 .product {
@@ -84,7 +84,7 @@ button:focus-visible {
   gap: 0.5em;
   padding: 1em;
   border-radius: 20px;
-  background-color: #fff;
+  background-color: #ffffff;
   box-shadow: 10px 5px 15px rgba(0, 46, 58, 0.3);
   transition: transform 0.25s;
   width: 280px;
@@ -100,4 +100,25 @@ button:focus-visible {
   height: 280px;
   object-fit: contain;
   border-radius: 8px;
+}
+
+.login-button {
+  color: white;
+  background-color: #213547;
+  font-size: 10px;
+}
+
+input {
+  color: #ccc;
+  background-color: #3b3b3b88;
+  padding: 0.2em;
+}
+
+input::placeholder {
+  color: #888;
+}
+
+input:focus {
+  background-color: #3b3b3b;
+  color: #eee;
 }

@@ -12,21 +12,29 @@ const LoginForm = ({ onLogin }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <input
-        type="text"
-        placeholder="Username"
-        value={username}
-        onChange={(e) => setUsername(e.target.value)}
-      />
-      <input
-        type="password"
-        placeholder="Password"
-        value={password}
-        onChange={(e) => setPassword(e.target.value)}
-      />
-      <button type="submit">Login</button>
-    </form>
+    <div className="userform">
+      <form onSubmit={handleSubmit}>
+        <input
+          type="text"
+          placeholder="Username"
+          id="username"
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+        />
+        &nbsp;
+        <input
+          type="password"
+          id="userpassword"
+          placeholder="Password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+        />
+        &nbsp;
+        <button className="login-button" type="submit">
+          Login
+        </button>
+      </form>
+    </div>
   );
 };
 

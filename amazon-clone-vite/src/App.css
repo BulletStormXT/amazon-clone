@@ -50,3 +50,16 @@
   justify-content: center; */
   margin-top: 200px;
 }
+
+.cart-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.item-count {
+  background-color: rgb(140, 0, 255);
+  color: #00f7ff;
+  padding: 5px 10px;
+  border-radius: 50%;
+  font-size: 14px;
+}

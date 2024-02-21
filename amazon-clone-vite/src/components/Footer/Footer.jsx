@@ -10,7 +10,7 @@ const Footer = () => {
         color: "#eee",
         padding: "15px",
         height: "50px",
-        backdropFilter: "blur(2px)",
+        backdropFilter: "blur(4px)",
       }}
     >
       <div style={{ position: "absolute", left: "0", padding: "0 15px" }}>

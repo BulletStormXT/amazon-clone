@@ -1,6 +1,6 @@
 # Amazon Clone
 
-## Hinweise von Ari
+## Hinweise
 
 Bilder im public Ordner
 Jeder sollte ca. 10 Produkte im json erstellen und mit users und orders zuordnen (für jeden )
@@ -14,7 +14,7 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 
 ## Arbeitsaufträge
 
-1. Warenkorb
+1. Warenkorb (Warenkorb Symbol mit counter etabliert, product cards button erstellt. Verlinkung wird aufgebaut)
 2. Benutzerauthentifizierung
 3. Bestellvorgang
 4. Admit-Verwaltung (optional)

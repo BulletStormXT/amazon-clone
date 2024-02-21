@@ -26,7 +26,7 @@ function App() {
       }
     })();
   }, []);
-  // console.log(data);
+  console.log(data);
   return (
     <>
       <header />
@@ -46,8 +46,8 @@ function App() {
 
 export default App;
 
-<Home products={data} className="homeBody" />;
-{
-  /* <Navigation /> */
-}
-<routes></routes>;
+// {/* <Home products={data} className="homeBody" />;
+
+//   /* <Navigation /> */
+// }
+// <routes></routes>; */}
