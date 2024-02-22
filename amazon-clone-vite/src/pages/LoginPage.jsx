@@ -1,4 +1,4 @@
-import LoginForm from "../services/LoginForm";
+import LoginForm from "./LoginForm";
 
 const LoginPage = () => {
   const handleLogin = (username, password) => {

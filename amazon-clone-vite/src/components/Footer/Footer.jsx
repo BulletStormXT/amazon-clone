@@ -6,11 +6,12 @@ const Footer = () => {
         left: "0",
         bottom: "0",
         right: "0",
-        backgroundColor: "#22222299",
-        color: "#eee",
+        backgroundColor: "#9bb1d099",
+        color: "#222",
         padding: "15px",
         height: "50px",
         backdropFilter: "blur(4px)",
+        textShadow: "0px 0px 4px #fff",
       }}
     >
       <div style={{ position: "absolute", left: "0", padding: "0 15px" }}>

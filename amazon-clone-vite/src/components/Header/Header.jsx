@@ -3,8 +3,8 @@ import { useState } from "react";
 import { FaAmazon } from "react-icons/fa";
 import { RiShoppingCartFill } from "react-icons/ri";
 import Logo from "../../assets/img/Spice.svg";
-import LoginForm from "../../services/LoginForm";
-import Home from "../../pages/Home.jsx";
+import LoginForm from "../../pages/LoginForm.jsx";
+// import Home from "../../pages/Home.jsx";
 import PropTypes from "prop-types";
 
 // import {Home} from "../../pages/Home";
@@ -64,7 +64,7 @@ const Header = () => {
         padding: "0 1rem",
         backdropFilter: "blur(4px)",
         borderBottom: "1px solid #ddd",
-        backgroundColor: "#22222299",
+        backgroundColor: "#9bb1d099",
         position: "fixed",
         top: "0",
         left: "0",
@@ -88,7 +88,9 @@ const Header = () => {
             style={{ color: "#351a7c", fontSize: "2rem", cursor: "pointer" }}
           />
         </div>
-        <div style={{ marginLeft: "10px" }}>{itemCount}</div>
+        <div className="item-count" style={{ marginLeft: "10px" }}>
+          {itemCount}
+        </div>
         <div style={{ marginLeft: "20px" }}>
           <FaAmazon style={{ color: "#351a7c", fontSize: "2rem" }} />
         </div>

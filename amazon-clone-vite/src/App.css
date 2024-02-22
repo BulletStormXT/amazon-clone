@@ -57,9 +57,12 @@
 }
 
 .item-count {
-  background-color: rgb(140, 0, 255);
+  background-color: rgba(255, 0, 255, 0.6);
   color: #00f7ff;
-  padding: 5px 10px;
+  padding: 2px 7px;
   border-radius: 50%;
-  font-size: 14px;
+  font-size: 10px;
+  position: relative;
+  top: -13px;
+  left: -22px;
 }
