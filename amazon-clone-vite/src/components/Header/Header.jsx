@@ -50,7 +50,9 @@ export default Header; */
 
 const Header = () => {
   const [itemCount, setItemCount] = useState(0);
-
+  const handleLogin = (username, password) => {
+    console.log("Logging in with:", username, password);
+  };
   const addToCart = () => {
     setItemCount(itemCount + 1);
   };
@@ -80,7 +82,7 @@ const Header = () => {
         style={{ padding: "10px 0" }}
       />
 
-      <LoginForm />
+      <LoginForm onLogin={handleLogin} />
 
       <div style={{ display: "flex", alignItems: "center" }}>
         <div onClick={addToCart}>

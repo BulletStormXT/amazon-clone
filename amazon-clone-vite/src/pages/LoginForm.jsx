@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 // import Header from "../components/Header/Header";
 // import AuthService from "../services/AuthService";
@@ -6,9 +6,27 @@ import PropTypes from "prop-types";
 const LoginForm = ({ onLogin }) => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+  const [users, setUsers] = useState([]);
+
+  useEffect(() => {
+    // Fetch user data when the component mounts
+    fetch(".db.json")
+      .then((response) => response.json())
+      .then((data) => setUsers(data.users))
+      .catch((error) => console.error("Error fetching users:", error));
+  }, []);
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    const user = users.find(
+      (user) => user.username === username && user.password === password
+    );
+    if (user) {
+      onLogin(user); // Assuming onLogin expects the user object
+    } else {
+      // Handle invalid credentials
+      console.log("Invalid username or password");
+    }
     onLogin(username, password);
   };
 
