@@ -191,13 +191,7 @@ import ShoppingCart from "./ShoppingCart";
 import Header from "../components/Header/Header";
 // import { Link } from "react-router-dom";
 
-const Home = ({ products }) => {
-  const [itemCount, setItemCount] = useState(0);
-
-  const addToCart = () => {
-    setItemCount(itemCount + 1);
-  };
-
+const Home = ({ products, addToCart, itemCount }) => {
   if (!Array.isArray(products) || products.length === 0) {
     return <div>No products available</div>;
   }
@@ -221,15 +215,18 @@ const Home = ({ products }) => {
             <img src={product.image} alt={product.name} width={"250px"} />
             <div className="product-details">
               <h3>{product.name}</h3>
-              <p>Category: {product.category}</p>
-              <p>Price: {product.price} €</p>
-              <button
-                onClick={() => {
-                  addToCart();
-                }}
-              >
-                Add to Cart
-              </button>
+              <p>{product.category}</p>
+              <p>Price: {product.price}€</p>
+              <div>
+                <button
+                  className="cart-button"
+                  onClick={() => {
+                    addToCart();
+                  }}
+                >
+                  Add to Cart
+                </button>
+              </div>
             </div>
           </div>
         ))}

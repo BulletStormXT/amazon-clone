@@ -96,6 +96,9 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 - [x] npm install json-server
 - [x] npm install concurrently nodemon --save-dev
 
+OR
+npm create vite@latest ./ -- --template react && npm install -D tailwindcss && npx tailwindcss init && npm install --legacy-peer-deps -D postcss autoprefixer && npx tailwindcss init -p && npm install react-router-dom axios react-icons json-server && npm install concurrently nodemon --save-dev
+
 Danke @VCorvinus hab es schon mal mithilfe deiner Liste soweit installiert ;-)
 
 npm run cdev (für das Öffnen von vite und json)

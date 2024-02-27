@@ -48,15 +48,11 @@ import PropTypes from "prop-types";
 
 export default Header; */
 
-const Header = () => {
-  const [itemCount, setItemCount] = useState(0);
+const Header = ({ itemCount }) => {
   const handleLogin = (username, password) => {
     console.log("Logging in with:", username, password);
   };
-  const addToCart = () => {
-    setItemCount(itemCount + 1);
-  };
-
+  console.log(itemCount);
   return (
     <div
       style={{
@@ -85,7 +81,7 @@ const Header = () => {
       <LoginForm onLogin={handleLogin} />
 
       <div style={{ display: "flex", alignItems: "center" }}>
-        <div onClick={addToCart}>
+        <div>
           <RiShoppingCartFill
             style={{ color: "#351a7c", fontSize: "2rem", cursor: "pointer" }}
           />

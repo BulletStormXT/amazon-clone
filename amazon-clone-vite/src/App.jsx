@@ -13,7 +13,14 @@ function App() {
   /* const [count, setCount] = useState(0); */
   const [data, setData] = useState(null);
 
+  const [itemCount, setItemCount] = useState(0);
+  console.log(itemCount);
+  const addToCart = () => {
+    setItemCount(itemCount + 1);
+  };
+
   // console.log(data);
+  //! Produkte
   useEffect(() => {
     (async () => {
       try {
@@ -28,13 +35,19 @@ function App() {
       }
     })();
   }, []);
-  console.log(data);
+
+  // console.log(data);
   return (
     <>
       <header />
       <div>
-        <Header />
-        <Home products={data} className="homeBody" />
+        <Header itemCount={itemCount} />
+        <Home
+          products={data}
+          addToCart={addToCart}
+          itemCount={itemCount}
+          className="homeBody"
+        />
         {/* <Navigation /> */}
         <routes></routes>
       </div>

@@ -9,8 +9,7 @@ const LoginForm = ({ onLogin }) => {
   const [users, setUsers] = useState([]);
 
   useEffect(() => {
-    // Fetch user data when the component mounts
-    fetch(".db.json")
+    fetch("../db.json")
       .then((response) => response.json())
       .then((data) => setUsers(data.users))
       .catch((error) => console.error("Error fetching users:", error));

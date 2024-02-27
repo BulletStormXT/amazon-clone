@@ -5,6 +5,7 @@ import ShoppingCart from "../../pages/ShoppingCart";
 
 const ParentComponent = () => {
   const [itemCount, setItemCount] = useState(0);
+  const [products, setProducts] = useState([]);
 
   const addToCart = () => {
     setItemCount(itemCount + 1);
