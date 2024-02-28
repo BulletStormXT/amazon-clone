@@ -41,7 +41,7 @@ function App() {
     <>
       <header />
       <div>
-        <Header itemCount={itemCount} />
+        <Header itemCount={itemCount} users={data} />
         <Home
           products={data}
           addToCart={addToCart}

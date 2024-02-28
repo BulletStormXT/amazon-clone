@@ -1,5 +1,5 @@
 // import Navigation from "../Navigation/Navigation";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { FaAmazon } from "react-icons/fa";
 import { RiShoppingCartFill } from "react-icons/ri";
 import Logo from "../../assets/img/Spice.svg";
@@ -49,10 +49,18 @@ import PropTypes from "prop-types";
 export default Header; */
 
 const Header = ({ itemCount }) => {
+  useEffect(() => {
+    fetch("../db.json")
+      .then((response) => response.json())
+      .then((data) => setUsers(data.users))
+      .catch((error) => console.error("Error fetching users:", error));
+  }, []);
+
   const handleLogin = (username, password) => {
     console.log("Logging in with:", username, password);
   };
   console.log(itemCount);
+
   return (
     <div
       style={{
@@ -78,7 +86,7 @@ const Header = ({ itemCount }) => {
         style={{ padding: "10px 0" }}
       />
 
-      <LoginForm onLogin={handleLogin} />
+      <LoginForm onLogin={handleLogin} LoginForm={LoginForm} />
 
       <div style={{ display: "flex", alignItems: "center" }}>
         <div>

@@ -2,7 +2,7 @@
 
 ## Hinweise
 
-Bilder im public Ordner
+Bilder und Logos sind im src/assets/img Ordner aufgelistet
 Jeder sollte ca. 10 Produkte im json erstellen und mit users und orders zuordnen (für jeden )
 Wir haben 40 Produkte mit 5 Userdaten (users, orders)
 Jeder sucht 10 Produkte für Elektronik zusammen mit Namen, Bild und Preis
@@ -14,8 +14,8 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 
 ## Arbeitsaufträge
 
-1. Warenkorb (Warenkorb Symbol mit counter etabliert, product cards button erstellt. Verlinkung wird aufgebaut)
-2. Benutzerauthentifizierung
+1. Warenkorb (Warenkorb Symbol mit counter etabliert, product cards button erstellt und Verlinkung erstellt)
+2. Benutzerauthentifizierung (Login Anmeldung aufgebaut, Daten werden in der Konsole ausgegeben)
 3. Bestellvorgang
 4. Admit-Verwaltung (optional)
 5. Json Server (angefangen, betriebsbereit)
@@ -23,13 +23,11 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 
 ## Planungsschritte
 
-Wir arbeiten über liveshare, nutzen aber auch neben der main branch eine weitere refactoring branch
+Wir arbeiten über liveshare, unser Vite-projekt ist auf der Branch refactoring-vite
 Entscheidung Vite (cra verursacht errors postcss module not found und probs mit usecontext)
-Entscheidung Tailwind und/oder Bootstrap
 Tailwind installiert
 Icons über React-Icons/Fontawesome
 desktop first, mobile später responsive anpassen
-einheitliche font-family, color swatches etc.
 Wir arbeiten mit react-router Version 6. Daher alle neue codes updaten [](https://reactrouter.com/en/main/start/overview)
 
 ## ChatGPT Plan
@@ -81,7 +79,7 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 
 ### Todo
 
-- [ ] Position Fixed am Ende aus dem Footer wieder entfernen
+- [✔] Position Fixed am Ende aus dem Footer wieder entfernen
 
 ## CMD 4 Vite
 

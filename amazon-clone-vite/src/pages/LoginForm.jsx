@@ -18,13 +18,13 @@ const LoginForm = ({ onLogin }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const user = users.find(
-      (user) => user.username === username && user.password === password
+      (user) => user.username === username && users.password === password
     );
     if (user) {
       onLogin(user); // Assuming onLogin expects the user object
     } else {
       // Handle invalid credentials
-      console.log("Invalid username or password");
+      // console.log("Invalid username or password");
     }
     onLogin(username, password);
   };
