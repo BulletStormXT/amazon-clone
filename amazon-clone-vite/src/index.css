@@ -1,12 +1,15 @@
 :root {
-  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-family: "Segoe UI", Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
   color: #222;
-  background-color: #e9e7ff; /* bg main */
+  /* bg main */
+  /* background-color: #e9e7ff; */ /* boring and very serious colors for boring and very serious Marcel */
+  /* background-color: rgb(187, 255, 0); */
+  background-color: rgb(0, 75, 75);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -44,7 +47,7 @@ h1 {
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
-  font-family: inherit;
+  font-family: "Segoe UI", Arial, sans-serif;
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
@@ -60,7 +63,7 @@ button {
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
-  font-family: inherit;
+  font-family: "Segoe UI", Arial, sans-serif;
   background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
@@ -93,7 +96,7 @@ button:focus-visible {
   gap: 1em;
   justify-content: center;
   padding: 1em;
-  background-color: #e9e7ff;
+  /* background-color: #e9e7ff; */
 }
 
 /* ! Product-Card */
@@ -106,7 +109,7 @@ button:focus-visible {
   padding: 1em;
   border-radius: 20px;
   background-color: #ffffff;
-  box-shadow: 10px 5px 15px rgba(0, 78, 97, 0.349);
+  box-shadow: 10px 5px 15px rgba(0, 49, 61, 0.349);
   transition: transform 0.25s;
   width: 280px;
   height: (auto + 1em);
@@ -153,5 +156,75 @@ input:focus {
   gap: 1em;
   justify-content: center;
   padding: 1em;
-  background-color: #e9e7ff;
+}
+
+.popup-cart-container {
+  position: fixed;
+  z-index: 9999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-20%, -20%); /* changed from -50 to -25 to -20 */
+}
+
+.popup-cart {
+  /* background-color: #ff0080; */
+  background-color: rgba(224, 231, 229, 0.973);
+
+  /* boring and very serious colors for boring and very serious Marcel */
+  padding: 1em;
+  border-radius: 20px;
+  box-shadow: 10px 5px 15px rgba(0, 49, 61, 0.349);
+  transition: transform 0.25s;
+  width: 380px;
+  /* color: rgb(0, 255, 234); */
+  color: rgb(16, 27, 26);
+  /* boring and very serious colors for boring and very serious Marcel */
+  word-break: normal;
+  backdrop-filter: "blur(6px)";
+}
+
+.popup-cart ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.popup-cart li {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 0.7em;
+}
+
+.popup-cart:hover {
+  transform: scale(1.08);
+}
+
+.popup-cart img {
+  width: 260px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.popup-cart button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-top: 1em;
+}
+
+.popup-cart button:hover {
+  border-color: #646cff;
+}
+
+.popup-cart button:focus,
+.popup-cart button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
 }

@@ -27,7 +27,7 @@ Wir arbeiten über liveshare, unser Vite-projekt ist auf der Branch refactoring-
 Entscheidung Vite (cra verursacht errors postcss module not found und probs mit usecontext)
 Tailwind installiert
 Icons über React-Icons/Fontawesome
-desktop first, mobile später responsive anpassen
+desktop first, mobile später responsive anpassen (✔)
 Wir arbeiten mit react-router Version 6. Daher alle neue codes updaten [](https://reactrouter.com/en/main/start/overview)
 
 ## ChatGPT Plan
@@ -105,4 +105,14 @@ Changed Login to LoginPage
 Corrected path in Routes
 Added LoginForm
 
-Bye, see ya later~!
+# Extras
+
+1. Produktbewertungen und -kommentare: Ermögliche Benutzern das Hinterlassen von Bewertungen und Kommentaren für Produkte. Speichere diese Daten im json-server und stelle sie auf den Produktseiten dar.
+
+2. Suchfunktion und Filter: Implementiere eine Suchleiste und Filteroptionen (z.B. nach Kategorie, Preis, Bewertung), um das Finden von Produkten zu erleichtern.
+
+3. Produktdetailseite: Erstelle detaillierte Produktseiten, die neben den Grundinformationen auch Bilder, Bewertungen und ähnliche Produktvorschläge anzeigen.
+
+4. Mehrstufiger Checkout-Prozess: Gestalte den Checkout-Prozess interaktiver, indem du mehrere Schritte einführst (z.B. Adressauswahl, Zahlungsmethode, Bestellübersicht).
+
+5. Implementiere ein Coupon-System, das es Benutzern ermöglicht, Rabattcodes beim Checkout einzulösen, um Preisnachlässe auf ihre Bestellungen zu erhalten.

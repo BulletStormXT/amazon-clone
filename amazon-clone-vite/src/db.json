@@ -146,7 +146,12 @@
       "name": "Lenovo Tab M10 (3. Gen) Tablet | 10,1\" | Android 13 | grau",
       "price": 149,
       "image": "https://m.media-amazon.com/images/I/61ChTpIyo2L._AC_UY218_.jpg",
-      "details": "Das Lenovo Tab M10 (3. Gen) ist ein leistungsstarkes Tablet mit einem 10,1 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Tab M10 (3. Gen) der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Lenovo Tab M10 (3. Gen) features a generous 10.1-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Tab M10 (3. Gen) offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Tab M10 (3. Gen) offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 12,
@@ -154,7 +159,12 @@
       "name": "Fire HD 2023 Tablet | 10,1\" | Mit Werbung",
       "price": 99.99,
       "image": "https://m.media-amazon.com/images/I/51-+258rwxL._AC_UY218_.jpg",
-      "details": "Das Fire HD 2023 ist ein leistungsstarkes Tablet mit einem 10,1 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Fire HD 2023 der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Fire HD 2023 features a generous 10.1-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Fire HD 2023 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Fire HD 2023 offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 13,
@@ -162,7 +172,12 @@
       "name": "Samsung Galaxy Tab S9 Ultra 5G Tablet | 12,4\" | S-Pen",
       "price": 1909,
       "image": "https://m.media-amazon.com/images/I/61wvk-x+QEL._AC_UY218_.jpg",
-      "details": "Das Samsung Galaxy Tab S9 Ultra 5G ist ein leistungsstarkes Tablet mit einem 12,4 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Galaxy Tab S9 Ultra 5G der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Samsung Galaxy Tab S9 Ultra 5G features a generous 12.4-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Tab S9 Ultra 5G offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Tab S9 Ultra 5G offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 14,
@@ -170,7 +185,12 @@
       "name": "Apple 2022 12,9\" iPad Pro | Wi-Fi | 5G | 2TB | Silber",
       "price": 2714.99,
       "image": "https://m.media-amazon.com/images/I/81rxOSprYqL._AC_UY218_.jpg",
-      "details": "Das Apple 2022 12,9\" iPad Pro ist ein leistungsstarkes Tablet mit einem 12,9 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das 12,9\" iPad Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Apple 2022 12,9\" iPad Pro features a generous 12.9-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the 12,9\" iPad Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the 12,9\" iPad Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 15,
@@ -178,7 +198,12 @@
       "name": "Microsoft Surface Pro 9 | WiFi & 5G | Windows®-Tablet | 13\"",
       "price": 1859,
       "image": "https://m.media-amazon.com/images/I/51nAyoG7xsL._AC_SY450_.jpg",
-      "details": "Das Microsoft Surface Pro 9 ist ein leistungsstarkes Tablet mit einem 13 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Surface Pro 9 der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Microsoft Surface Pro 9 features a generous 13-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Surface Pro 9 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Surface Pro 9 offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 16,
@@ -186,7 +211,12 @@
       "name": "Xiaomi Pad 6 | Tablet | 11\" | WiFi | Gravity Gray",
       "price": 332,
       "image": "https://m.media-amazon.com/images/I/61stmTPwiLL._AC_UY218_.jpg",
-      "details": "Das Xiaomi Pad 6 ist ein leistungsstarkes Tablet mit einem 11 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Pad 6 der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Xiaomi Pad 6 features a generous 11-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Pad 6 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pad 6 offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 17,
@@ -194,7 +224,12 @@
       "name": "Google Pixel Tablet | Ladedock mit Lautsprecher | 11\" ",
       "price": 679,
       "image": "https://m.media-amazon.com/images/I/81kLM3QV9PL._AC_SX679_.jpg",
-      "details": "Das Google Pixel Tablet ist ein leistungsstarkes Tablet mit einem 11 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Pixel Tablet der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen resulution and size: The Google Pixel Tablet features a generous 11-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Pixel Tablet offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pixel Tablet offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 18,
@@ -202,7 +237,12 @@
       "name": "Honor Pad X9 | 128 GB | 11.5\" | WiFi 5 | Gris",
       "price": 193,
       "image": "https://m.media-amazon.com/images/I/71lcv0kCfkL._AC_UY218_.jpg",
-      "details": "Das Honor Pad X9 ist ein leistungsstarkes Tablet mit einem 11,5 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Pad X9 der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Honor Pad X9 has a generous 11.5-inch display with an impressive resolution that delivers a razor-sharp image.",
+        "Performance and Processor: Powered by a powerful processor, the Pad X9 offers smooth performance for both everyday use and multitasking.",
+        "Storage and expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pad X9 offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 19,
@@ -210,7 +250,12 @@
       "name": "Huawei MatePad Pro | 10,8\" | Wi-Fi 6 | Midnight Grey",
       "price": 669,
       "image": "https://m.media-amazon.com/images/I/71IoSAF5bEL._AC_UY218_.jpg",
-      "details": "Das Huawei MatePad Pro ist ein leistungsstarkes Tablet mit einem 10,8 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das MatePad Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Huawei MatePad Pro has a generous 10.8-inch display with an impressive resolution that delivers a razor-sharp image.",
+        "Performance and Processor: Powered by a powerful processor, the MatePad Pro offers smooth performance for both everyday use and multitasking.",
+        "Storage and expansion: The tablet offers plenty of internal storage for apps, games, and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the MatePad Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 20,
@@ -218,7 +263,12 @@
       "name": "MEDION E10713 Tablet | 10\" | LTE | Android 10 ",
       "price": 249.99,
       "image": "https://m.media-amazon.com/images/I/71rOZvt1eCL._AC_UY218_.jpg",
-      "details": "Das MEDION E10713 ist ein leistungsstarkes Tablet mit einem 10 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das E10713 der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The MEDION E10713 has a generous 10 display with an impressive resolution that delivers a razor-sharp image.",
+        "Performance and processor: Powered by a powerful processor, the E10713 offers smooth performance for both everyday use and multitasking.",
+        "Storage and Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the E10713 offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 21,
@@ -226,7 +276,13 @@
       "name": "Apple iPhone 15 Pro Max",
       "price": 1299,
       "image": "https://m.media-amazon.com/images/I/81fYvFvX-8L._AC_UY218_.jpg",
-      "details": "Das Apple iPhone 15 Pro Max ist ein leistungsstarkes Smartphone mit einem 6,7 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das iPhone 15 Pro Max der ideale Begleiter für unterwegs."
+      "details": [
+        "The Apple iPhone 15 Pro Max is a powerful smartphone with a 6.7-inch display.",
+        "It has a powerful processor and offers high performance.",
+        "With its sleek design and simple controls, the iPhone 15 Pro Max is the perfect companion on the go.",
+        "iPhone 15 Pro has a durable, lightweight, space-age titanium design with a textured, matte glass back.",
+        "It also has a Ceramic Shield front that can withstand more than any smartphone glass. And it is water and dust resistant."
+      ]
     },
     {
       "id": 22,
@@ -234,7 +290,12 @@
       "name": "Samsung Galaxy S24 Ultra",
       "price": 1499,
       "image": "https://m.media-amazon.com/images/I/71OOJdjWopL._AC_UY218_.jpg",
-      "details": "Das Samsung Galaxy S24 Ultra ist ein leistungsstarkes Smartphone mit einem 6,8 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Galaxy S24 Ultra der ideale Begleiter für unterwegs."
+      "details": [
+        "Screensize & Resolution: The Samsung Galaxy S24 Ultra features a 6.8-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Galaxy S24 Ultra offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Galaxy S24 Ultra offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 23,
@@ -242,7 +303,13 @@
       "name": "Asus ROG Phone 8 Pro",
       "price": 1199,
       "image": "https://m.media-amazon.com/images/I/81kRnYUMQ5L._AC_UY218_.jpg",
-      "details": "Das Asus ROG Phone 8 Pro ist ein leistungsstarkes Smartphone mit einem 6,8 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das ROG Phone 8 Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "The Asus ROG Phone 8 Pro is a powerful smartphone with a 6.8-inch display.",
+        "It has a powerful processor and offers high performance.",
+        "With its sleek design and easy to use interface, the ROG Phone 8 Pro is the perfect companion on the go.",
+        "High capacity 5500 mAh battery with 65W HyperCharge.",
+        "3.5 mm headphone jack with DIRAC Virtuo technology."
+      ]
     },
     {
       "id": 24,
@@ -250,7 +317,12 @@
       "name": "Sony Xperia 5 V",
       "price": 877,
       "image": "https://m.media-amazon.com/images/I/8165PQGtt-L._AC_UY218_.jpg",
-      "details": "Das Sony Xperia 5 V ist ein leistungsstarkes Smartphone mit einem 6,1 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Xperia 5 V der ideale Begleiter für unterwegs."
+      "details": [
+        "Screesize & Resuloion: The Sony Xperia 5 V features a 6.1-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Xperia 5 V offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Xperia 5 V offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 25,
@@ -258,7 +330,12 @@
       "name": "Xiaomi Redmi Note 13 Pro",
       "price": 351,
       "image": "https://m.media-amazon.com/images/I/51DRuAKTvPL._AC_UY218_.jpg",
-      "details": "Das Xiaomi Redmi Note 13 Pro ist ein leistungsstarkes Smartphone mit einem 6,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Redmi Note 13 Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Xiaomi Redmi Note 13 Pro features a 6.6-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Redmi Note 13 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Redmi Note 13 Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 26,
@@ -266,7 +343,12 @@
       "name": "Google Pixel 8 Pro",
       "price": 1020,
       "image": "https://m.media-amazon.com/images/I/71HBgGfmUsL._AC_UY218_.jpg",
-      "details": "Das Google Pixel 8 Pro ist ein leistungsstarkes Smartphone mit einem 6,7 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Pixel 8 Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Google Pixel 8 Pro features a 6.7-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Pixel 8 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pixel 8 Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 27,
@@ -274,7 +356,12 @@
       "name": "Redmagic 9 Pro",
       "price": 899,
       "image": "https://m.media-amazon.com/images/I/61h8kpNMqpL._AC_UY218_.jpg",
-      "details": "Das Redmagic 9 Pro ist ein leistungsstarkes Smartphone mit einem 6,8 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das 9 Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Redmagic 9 Pro features a 6.8-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Redmagic 9 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Redmagic 9 Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 28,
@@ -282,7 +369,12 @@
       "name": "Honor Magic 5 Pro",
       "price": 899,
       "image": "https://m.media-amazon.com/images/I/71ZJ7aVRpYL._AC_UY218_.jpg",
-      "details": "Das Honor Magic 5 Pro ist ein leistungsstarkes Smartphone mit einem 6,8 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Magic 5 Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Honor Magic 5 Pro features a 6.7-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Magic 5 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Magic 5 Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 29,
@@ -290,7 +382,12 @@
       "name": "Samsung Galaxy Z Fold 5",
       "price": 1548,
       "image": "https://m.media-amazon.com/images/I/71w42eF8UBL._AC_UY218_.jpg",
-      "details": "Das Samsung Galaxy Z Fold 5 ist ein leistungsstarkes Smartphone mit einem 7,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Galaxy Z Fold 5 der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Samsung Galaxy Z Fold 5 features a 7.6-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Galaxy Z Fold 5 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Galaxy Z Fold 5 offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 30,
@@ -298,7 +395,12 @@
       "name": "Motorola Moto Edge40 Pro",
       "price": 755,
       "image": "https://m.media-amazon.com/images/I/71NbcMrlZOL._AC_UY218_.jpg",
-      "details": "Das Motorola Moto Edge40 Pro ist ein leistungsstarkes Smartphone mit einem 6,7 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Moto Edge40 Pro der ideale Begleiter für unterwegs."
+      "details": [
+        "Screen size and resolution: The Motorola Moto Edge40 Pro features a 6.7-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Moto Edge40 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Moto Edge40 Pro offers reliable performance that lasts all day."
+      ]
     },
     {
       "id": 31,
@@ -306,7 +408,13 @@
       "name": "Acer Aspire 5 | 17.3\" FHD | Intel Core i5-12450H",
       "price": 499,
       "image": "https://m.media-amazon.com/images/I/71DwIqm1QAL._AC_SX425_.jpg",
-      "details": "Das Acer Aspire 5 (A517-53-53X3) ist ein leistungsstarkes Notebook mit einem 17,3 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Aspire 5 (A517-53-53X3) der ideale Begleiter für unterwegs."
+      "details": [
+        "The Acer Aspire 5 (A517-52-59JY) is a powerful notebook with a 17.3-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Aspire 5 (A517-52-59JY) is the ideal companion for on the go.",
+        "With its 1TB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 8 hours."
+      ]
     },
     {
       "id": 32,
@@ -314,7 +422,13 @@
       "name": "Acer Aspire 3 | 15.6\" FHD | AMD Ryzen 5 7520U",
       "price": 599,
       "image": "https://m.media-amazon.com/images/I/61Oh1+TgNmL._AC_SX450_.jpg",
-      "details": "Das Acer Aspire 3 (A315-24P-R9JA) ist ein leistungsstarkes Notebook mit einem 15,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Aspire 3 (A315-24P-R9JA) der ideale Begleiter für unterwegs."
+      "details": [
+        "The Acer Aspire 3 (A315-23-R4J2) is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Aspire 3 (A315-23-R4J2) is the ideal companion for on the go.",
+        "With its 512GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 9 hours."
+      ]
     },
     {
       "id": 33,
@@ -322,7 +436,13 @@
       "name": "Apple 2022 MacBook Air Laptop | M2 Chip: 13,6\"",
       "price": 1099,
       "image": "https://m.media-amazon.com/images/I/71PWU942AIL._AC_SL1500_.jpg",
-      "details": "Das Apple 2022 MacBook Air ist ein leistungsstarkes Notebook mit einem 13,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das MacBook Air der ideale Begleiter für unterwegs."
+      "details": [
+        "The Apple 2022 MacBook Air is a powerful notebook with a 13.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the MacBook Air is the ideal companion for on the go.",
+        "With its 512GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 12 hours."
+      ]
     },
     {
       "id": 34,
@@ -330,7 +450,13 @@
       "name": "ACEMAGIC Laptop | 15.6\" FHD | 16GB DDR4",
       "price": 369.99,
       "image": "https://m.media-amazon.com/images/I/71SoQFbjcAL._AC_SL1500_.jpg",
-      "details": "Das ACEMAGIC Laptop ist ein leistungsstarkes Notebook mit einem 15,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das ACEMAGIC der ideale Begleiter für unterwegs."
+      "details": [
+        "The ACEMAGIC Laptop is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the ACEMAGIC Laptop is the ideal companion for on the go.",
+        "With its 1TB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 10 hours."
+      ]
     },
     {
       "id": 35,
@@ -338,7 +464,13 @@
       "name": "Lenovo 15.6\" HD+ | Intel N4020 2",
       "price": 299,
       "image": "https://m.media-amazon.com/images/I/51LkNOI6+lL._AC_.jpg",
-      "details": "Das Lenovo 15.6 Inch HD+ Notebook ist ein leistungsstarkes Notebook mit einem 15,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Lenovo der ideale Begleiter für unterwegs."
+      "details": [
+        "The Lenovo Laptop is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Lenovo Laptop is the ideal companion for on the go.",
+        "With its 256GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 8 hours."
+      ]
     },
     {
       "id": 36,
@@ -346,7 +478,13 @@
       "name": "HP Laptop | 17.3\" HD+ | Intel Celeron N4120",
       "price": 349,
       "image": "https://m.media-amazon.com/images/I/81Sr-jDlmiL._AC_SL1500_.jpg",
-      "details": "Das HP Laptop ist ein leistungsstarkes Notebook mit einem 17,3 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das HP der ideale Begleiter für unterwegs."
+      "details": [
+        "The HP Laptop is a powerful notebook with a 17.3-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the HP Laptop is the ideal companion for on the go.",
+        "With its 256GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 9 hours."
+      ]
     },
     {
       "id": 37,
@@ -354,7 +492,13 @@
       "name": "Tuofudun 13.5\" | Intel | N100 | Ultra Thin Laptop",
       "price": 608,
       "image": "https://m.media-amazon.com/images/I/71yrLh9XTUL._AC_SL1500_.jpg",
-      "details": "Das Tuofudun 13.5 Inch ist ein leistungsstarkes Notebook mit einem 13,5 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Tuofudun der ideale Begleiter für unterwegs."
+      "details": [
+        "The Tuofudun Laptop is a powerful notebook with a 13.5-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Tuofudun Laptop is the ideal companion for on the go.",
+        "With its 512GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 10 hours."
+      ]
     },
     {
       "id": 38,
@@ -362,7 +506,13 @@
       "name": "WOZIFAN | 256GB | Win11 | Intel",
       "price": 229.49,
       "image": "https://m.media-amazon.com/images/I/71kEzjACD1L._AC_SL1500_.jpg",
-      "details": "Das WOZIFAN Laptop ist ein leistungsstarkes Notebook mit einem 15,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das WOZIFAN der ideale Begleiter für unterwegs."
+      "details": [
+        "The WOZIFAN Laptop is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the WOZIFAN Laptop is the ideal companion for on the go.",
+        "With its 256GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 8 hours."
+      ]
     },
     {
       "id": 39,
@@ -370,7 +520,13 @@
       "name": "MSI Katana 17 B13VGK-671 | Gaming | 17.3\" FHD ",
       "price": 1699,
       "image": "https://m.media-amazon.com/images/I/71IK2RLhJiL._AC_SL1500_.jpg",
-      "details": "Das MSI Katana 17 B13VGK-671 ist ein leistungsstarkes Notebook mit einem 17,3 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das Katana 17 B13VGK-671 der ideale Begleiter für unterwegs."
+      "details": [
+        "The MSI Katana 17 B13VGK-671 is a powerful notebook with a 17.3-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its sleek design and easy operation, the Katana 17 B13VGK-671 is the ideal companion for on the go.",
+        "With its 1TB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 10 hours."
+      ]
     },
     {
       "id": 40,
@@ -378,20 +534,40 @@
       "name": "Lenovo LOQ Gaming | 15.6\" FHD Display",
       "price": 2999,
       "image": "https://m.media-amazon.com/images/I/81L9oKmRaXL._AC_SL1500_.jpg",
-      "details": "Das Lenovo LOQ Gaming Laptop ist ein leistungsstarkes Notebook mit einem 15,6 Zoll Display. Es verfügt über einen leistungsstarken Prozessor und bietet eine hohe Leistung. Mit seinem schlanken Design und der einfachen Bedienung ist das LOQ der ideale Begleiter für unterwegs."
+      "details": [
+        "The Lenovo LOQ gaming laptop is a powerful laptop with a 15.6-inch display.",
+        "It has a powerful processor and offers high performance.",
+        "Optimized performance with Lenovo AI Engine+ and NVIDIA® Advanced Optimus.",
+        "With its sleek design and easy operation, the LOQ is the ideal companion for on the go.",
+        "Comprehensive workstation and storage options give you the edge in every league."
+      ]
     },
     {
       "id": 41,
-      "category": "Notebook",
+      "category": "Accessoires",
       "name": "The Guardian",
       "price": 137.0,
-      "image": "https://oxy-shop.com/cdn/shop/products/electric-shock-chastity-device-the-guardian-516568.jpg",
+      "image": "../notebook/theGuardian.png",
       "details": [
-        "Adjustable and secure chastity device",
+        "Adjustable and secure restraint system",
         "Provides electric shock stimulation for chastity control",
         "Made from high-quality materials for comfort and durability",
         "Includes remote control for easy operation",
         "Rechargeable battery for long-lasting use"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Spicy",
+      "name": "Sansanna Spice",
+      "price": 1000000.0,
+      "image": "../toys/SansannaSpice-DND.gif",
+      "details": [
+        "Spice, also known as synthetic cannabis or synthetic marijuana, is a chemically engineered substance designed to mimic the effects of THC, the active component in natural cannabis.",
+        "It's often smoked or vaporized for its psychoactive effects.",
+        "However, spice can have unpredictable and dangerous side effects, including severe anxiety, hallucinations, paranoia, and even life-threatening complications like seizures and heart attacks.",
+        "It's considered illegal and poses a higher risk of addiction and withdrawal compared to natural cannabis.",
+        "Formally known as Sansanna Spice, from StarWars & Dune. This product is not for sale."
       ]
     }
   ],
@@ -404,9 +580,9 @@
     },
     {
       "id": 2,
-      "name": "user 2",
+      "name": "Marcel",
       "email": "",
-      "password": "012"
+      "password": "000"
     },
     {
       "id": 3,
