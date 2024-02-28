@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="134.5352mm"
+   height="35.152252mm"
+   viewBox="0 0 134.5352 35.152252"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="Spice.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.92370266"
+     inkscape:cx="323.15594"
+     inkscape:cy="69.827665"
+     inkscape:window-width="1523"
+     inkscape:window-height="773"
+     inkscape:window-x="2381"
+     inkscape:window-y="82"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true">
+    <inkscape:grid
+       id="grid27"
+       units="mm"
+       originx="-11.62095"
+       originy="-6.6920843"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="554.80316"
+       y="245.17415"
+       width="222.20671"
+       height="276.3201"
+       id="rect1" />
+    <rect
+       x="235.99779"
+       y="106.8689"
+       width="241.401"
+       height="69.217728"
+       id="rect5" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.62095,-6.6920845)">
+    <text
+       xml:space="preserve"
+       transform="matrix(2.790036,0,0,2.790036,-649.43893,-293.22451)"
+       id="text5"
+       style="white-space:pre;shape-inside:url(#rect5);display:inline;opacity:1;fill:#1c7988;fill-opacity:1;stroke:#000000;stroke-width:0.139783;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="235.99805"
+         y="117.48633"
+         id="tspan4"><tspan
+           style="font-size:12px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal'"
+           id="tspan3"> Spice</tspan></tspan></text>
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.999467;stroke:#1c7988;stroke-width:0.508966;stroke-opacity:1"
+       id="path21"
+       cx="126.3763"
+       cy="24.26819"
+       rx="2.4194257"
+       ry="2.2391489" />
+    <ellipse
+       style="fill:none;fill-opacity:0.999467;stroke:#000000;stroke-width:1.45351;stroke-opacity:1"
+       id="path22"
+       cx="126.3763"
+       cy="24.26819"
+       rx="19.053093"
+       ry="6.8089952" />
+    <ellipse
+       style="fill:none;fill-opacity:0.999467;stroke:#1c7988;stroke-width:1.45351;stroke-opacity:1"
+       id="ellipse23"
+       cx="126.3763"
+       cy="24.26819"
+       rx="19.053093"
+       ry="6.8089952" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#351a7c;stroke-width:1.45351;stroke-opacity:1"
+       id="ellipse24"
+       cx="42.171253"
+       cy="121.57919"
+       rx="19.053093"
+       ry="6.8089952"
+       transform="rotate(-60)" />
+    <ellipse
+       style="fill:none;fill-opacity:0.999467;stroke:#1c7988;stroke-width:1.45351;stroke-opacity:1"
+       id="ellipse25"
+       cx="-84.205017"
+       cy="97.310966"
+       rx="19.053093"
+       ry="6.8089952"
+       transform="rotate(-120)" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.999467;stroke:#1c7988;stroke-width:0.373137;stroke-opacity:1"
+       id="ellipse26"
+       cx="137.51996"
+       cy="35.643696"
+       rx="1.7737403"
+       ry="1.6415749" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:0.999467;stroke:#1c7988;stroke-width:0.373137;stroke-opacity:1"
+       id="ellipse27"
+       cx="115.23112"
+       cy="11.459773"
+       rx="1.7737403"
+       ry="1.6415749" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.54px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1);display:inline;fill:none;stroke:#351a7c;stroke-width:1.47402" />
+  </g>
+</svg>

@@ -1,0 +1,230 @@
+:root {
+  font-family: "Segoe UI", Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #222;
+  /* bg main */
+  /* background-color: #e9e7ff; */ /* boring and very serious colors for boring and very serious Marcel */
+  /* background-color: rgb(187, 255, 0); */
+  background-color: rgb(0, 75, 75);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+/* add2cart btn*/
+
+.cart-button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  position: relative;
+  overflow: hidden;
+  bottom: -1em;
+  margin-bottom: 2em;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+/* bg-bg cards */
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  padding: 1em;
+  /* background-color: #e9e7ff; */
+}
+
+/* ! Product-Card */
+.product {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  gap: 0.5em;
+  padding: 1em;
+  border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: 10px 5px 15px rgba(0, 49, 61, 0.349);
+  transition: transform 0.25s;
+  width: 280px;
+  height: (auto + 1em);
+}
+
+.product:hover {
+  transform: scale(1.08);
+}
+
+.product img {
+  width: 260px;
+  height: 280px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.login-button {
+  color: white;
+  background-color: #213547;
+  font-size: 10px;
+}
+
+input {
+  color: #303d50;
+  background-color: #9a8ec583;
+  padding: 0.2em;
+  text-shadow: #004e613b 1px 1px 2px;
+}
+
+input::placeholder {
+  color: #ff00f2;
+  text-shadow: #00000050 1px 1px 2px;
+}
+
+input:focus {
+  background-color: #9a8ec583;
+  color: #000;
+  text-shadow: #004e6159 1px 1px 2px;
+}
+
+.category-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  padding: 1em;
+}
+
+.popup-cart-container {
+  position: fixed;
+  z-index: 9999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-20%, -20%); /* changed from -50 to -25 to -20 */
+}
+
+.popup-cart {
+  /* background-color: #ff0080; */
+  background-color: rgba(224, 231, 229, 0.973);
+
+  /* boring and very serious colors for boring and very serious Marcel */
+  padding: 1em;
+  border-radius: 20px;
+  box-shadow: 10px 5px 15px rgba(0, 49, 61, 0.349);
+  transition: transform 0.25s;
+  width: 380px;
+  /* color: rgb(0, 255, 234); */
+  color: rgb(16, 27, 26);
+  /* boring and very serious colors for boring and very serious Marcel */
+  word-break: normal;
+  backdrop-filter: "blur(6px)";
+}
+
+.popup-cart ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.popup-cart li {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 0.7em;
+}
+
+.popup-cart:hover {
+  transform: scale(1.08);
+}
+
+.popup-cart img {
+  width: 260px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.popup-cart button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin-top: 1em;
+}
+
+.popup-cart button:hover {
+  border-color: #646cff;
+}
+
+.popup-cart button:focus,
+.popup-cart button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}

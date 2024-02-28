@@ -1,0 +1,678 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Mediaplayer",
+      "name": "Hidizs AP80 PRO-X",
+      "price": 273.96,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61NHbAsFsoL._AC_SL1500_.jpg",
+      "details": [
+        "Compact and portable high-resolution audio player",
+        "Supports various audio formats including FLAC, WAV, and DSD",
+        "Hi-res audio playback with exceptional sound quality",
+        "Built-in Bluetooth for wireless connectivity",
+        "Intuitive user interface with a responsive touchscreen"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Mediaplayer",
+      "name": "Sony Walkman NW-A306",
+      "price": 354.65,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61BD0wUd1uL._AC_SL1500_.jpg",
+      "details": [
+        "Premium digital audio player with high-resolution audio support",
+        "Sleek and stylish design with a durable build quality",
+        "Large storage capacity for storing a vast music library",
+        "Long battery life for extended listening sessions",
+        "Enhanced audio features for immersive listening experience"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Mediaplayer",
+      "name": "HIFI WALKER H2 MP3-Player",
+      "price": 125.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61mmVSDsq5L._AC_SL1500_.jpg",
+      "details": [
+        "Hi-fi lossless audio player with support for multiple audio formats",
+        "Lightweight and portable design ideal for on-the-go listening",
+        "Expandable storage via microSD card slot",
+        "Long battery life with quick charging capabilities",
+        "User-friendly interface with customizable EQ settings"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Mediaplayer",
+      "name": "FiiO M15S Audio-Player",
+      "price": 999.0,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61IRe8tbNAL._AC_SL1000_.jpg",
+      "details": [
+        "Flagship digital audio player with premium audio performance",
+        "Dual AK4499EQ DAC chips for exceptional sound quality",
+        "Large touchscreen display with intuitive navigation",
+        "Advanced connectivity options including Bluetooth and Wi-Fi",
+        "High-resolution audio playback up to 32bit/768kHz"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Mediaplayer",
+      "name": "Astell & Kern Audio-Player",
+      "price": 4299.0,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51PZMUa5YyL._AC_SL1024_.jpg",
+      "details": [
+        "State-of-the-art audio player crafted with premium materials",
+        "Revolutionary dual DAC design for unparalleled sound reproduction",
+        "Stunning design with a luxurious finish and ergonomic controls",
+        "Advanced playback features including native DSD support",
+        "Customizable sound settings for personalized audio experience"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Mediaplayer",
+      "name": "MECHEN MP3-Player",
+      "price": 30.39,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71XVnr1xBsL._AC_SL1500_.jpg",
+      "details": [
+        "Budget-friendly MP3 player with basic playback functionalities",
+        "Compact and lightweight design for easy portability",
+        "Simple user interface with easy-to-use navigation buttons",
+        "Built-in FM radio tuner for listening to your favorite stations",
+        "Long-lasting battery life for extended listening sessions"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Mediaplayer",
+      "name": "Oilsky MP3-Player",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/614w22DwsWL._AC_SL1500_.jpg",
+      "details": [
+        "Affordable MP3 player with versatile playback options",
+        "Compact and durable design suitable for outdoor activities",
+        "Clear and crisp sound quality with support for popular audio formats",
+        "Expandable storage capacity via microSD card slot",
+        "Includes earphones and USB cable for convenient charging and listening"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Mediaplayer",
+      "name": "Etacé MP3-Player",
+      "price": 29.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61IKhvukvkL._AC_SL1500_.jpg",
+      "details": [
+        "Stylish and compact MP3 player with modern design aesthetics",
+        "Bright and vibrant display for easy navigation and playback control",
+        "Supports various audio formats including MP3, WMA, and FLACr",
+        "Rechargeable battery with long playback time",
+        "Comes with a lanyard for convenient carrying"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Mediaplayer",
+      "name": "YOTON MP3-Player",
+      "price": 34.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61Vk4HtDoxL._AC_SL1500_.jpg",
+      "details": [
+        "Entry-level MP3 player with straightforward functionality",
+        "Slim and lightweight design for hassle-free portability",
+        "Plug-and-play operation with drag-and-drop file transfer",
+        "Built-in Bluetooth for wireless connectivity",
+        "Ideal for listening to music on-the-go without any frills"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Mediaplayer",
+      "name": "ZAQE MP3-Player",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71Gsa2zyAAL._AC_SL1500_.jpg",
+      "details": [
+        "Affordable MP3 player with reliable performance",
+        "Compact and ergonomic design for comfortable handling",
+        "Intuitive user interface with easy navigation",
+        "Supports various audio formats for versatile playback",
+        "Includes earphones and USB cable for immediate use"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Tablet",
+      "name": "Lenovo Tab M10 (3. Gen) Tablet | 10,1\" | Android 13 | grau",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/61ChTpIyo2L._AC_UY218_.jpg",
+      "details": [
+        "Screen resulution and size: The Lenovo Tab M10 (3. Gen) features a generous 10.1-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Tab M10 (3. Gen) offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Tab M10 (3. Gen) offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Tablet",
+      "name": "Fire HD 2023 Tablet | 10,1\" | Mit Werbung",
+      "price": 99.99,
+      "image": "https://m.media-amazon.com/images/I/51-+258rwxL._AC_UY218_.jpg",
+      "details": [
+        "Screen resulution and size: The Fire HD 2023 features a generous 10.1-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Fire HD 2023 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Fire HD 2023 offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S9 Ultra 5G Tablet | 12,4\" | S-Pen",
+      "price": 1909,
+      "image": "https://m.media-amazon.com/images/I/61wvk-x+QEL._AC_UY218_.jpg",
+      "details": [
+        "Screen resulution and size: The Samsung Galaxy Tab S9 Ultra 5G features a generous 12.4-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Tab S9 Ultra 5G offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Tab S9 Ultra 5G offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Tablet",
+      "name": "Apple 2022 12,9\" iPad Pro | Wi-Fi | 5G | 2TB | Silber",
+      "price": 2714.99,
+      "image": "https://m.media-amazon.com/images/I/81rxOSprYqL._AC_UY218_.jpg",
+      "details": [
+        "Screen resulution and size: The Apple 2022 12,9\" iPad Pro features a generous 12.9-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the 12,9\" iPad Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the 12,9\" iPad Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Tablet",
+      "name": "Microsoft Surface Pro 9 | WiFi & 5G | Windows®-Tablet | 13\"",
+      "price": 1859,
+      "image": "https://m.media-amazon.com/images/I/51nAyoG7xsL._AC_SY450_.jpg",
+      "details": [
+        "Screen resulution and size: The Microsoft Surface Pro 9 features a generous 13-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Surface Pro 9 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Surface Pro 9 offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Tablet",
+      "name": "Xiaomi Pad 6 | Tablet | 11\" | WiFi | Gravity Gray",
+      "price": 332,
+      "image": "https://m.media-amazon.com/images/I/61stmTPwiLL._AC_UY218_.jpg",
+      "details": [
+        "Screen resulution and size: The Xiaomi Pad 6 features a generous 11-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Pad 6 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pad 6 offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Tablet",
+      "name": "Google Pixel Tablet | Ladedock mit Lautsprecher | 11\" ",
+      "price": 679,
+      "image": "https://m.media-amazon.com/images/I/81kLM3QV9PL._AC_SX679_.jpg",
+      "details": [
+        "Screen resulution and size: The Google Pixel Tablet features a generous 11-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Pixel Tablet offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pixel Tablet offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Tablet",
+      "name": "Honor Pad X9 | 128 GB | 11.5\" | WiFi 5 | Gris",
+      "price": 193,
+      "image": "https://m.media-amazon.com/images/I/71lcv0kCfkL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Honor Pad X9 has a generous 11.5-inch display with an impressive resolution that delivers a razor-sharp image.",
+        "Performance and Processor: Powered by a powerful processor, the Pad X9 offers smooth performance for both everyday use and multitasking.",
+        "Storage and expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pad X9 offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Tablet",
+      "name": "Huawei MatePad Pro | 10,8\" | Wi-Fi 6 | Midnight Grey",
+      "price": 669,
+      "image": "https://m.media-amazon.com/images/I/71IoSAF5bEL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Huawei MatePad Pro has a generous 10.8-inch display with an impressive resolution that delivers a razor-sharp image.",
+        "Performance and Processor: Powered by a powerful processor, the MatePad Pro offers smooth performance for both everyday use and multitasking.",
+        "Storage and expansion: The tablet offers plenty of internal storage for apps, games, and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the MatePad Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Tablet",
+      "name": "MEDION E10713 Tablet | 10\" | LTE | Android 10 ",
+      "price": 249.99,
+      "image": "https://m.media-amazon.com/images/I/71rOZvt1eCL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The MEDION E10713 has a generous 10 display with an impressive resolution that delivers a razor-sharp image.",
+        "Performance and processor: Powered by a powerful processor, the E10713 offers smooth performance for both everyday use and multitasking.",
+        "Storage and Expansion: The tablet offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the E10713 offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Smartphone",
+      "name": "Apple iPhone 15 Pro Max",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/81fYvFvX-8L._AC_UY218_.jpg",
+      "details": [
+        "The Apple iPhone 15 Pro Max is a powerful smartphone with a 6.7-inch display.",
+        "It has a powerful processor and offers high performance.",
+        "With its sleek design and simple controls, the iPhone 15 Pro Max is the perfect companion on the go.",
+        "iPhone 15 Pro has a durable, lightweight, space-age titanium design with a textured, matte glass back.",
+        "It also has a Ceramic Shield front that can withstand more than any smartphone glass. And it is water and dust resistant."
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Smartphone",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71OOJdjWopL._AC_UY218_.jpg",
+      "details": [
+        "Screensize & Resolution: The Samsung Galaxy S24 Ultra features a 6.8-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Galaxy S24 Ultra offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Galaxy S24 Ultra offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Smartphone",
+      "name": "Asus ROG Phone 8 Pro",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/81kRnYUMQ5L._AC_UY218_.jpg",
+      "details": [
+        "The Asus ROG Phone 8 Pro is a powerful smartphone with a 6.8-inch display.",
+        "It has a powerful processor and offers high performance.",
+        "With its sleek design and easy to use interface, the ROG Phone 8 Pro is the perfect companion on the go.",
+        "High capacity 5500 mAh battery with 65W HyperCharge.",
+        "3.5 mm headphone jack with DIRAC Virtuo technology."
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Smartphone",
+      "name": "Sony Xperia 5 V",
+      "price": 877,
+      "image": "https://m.media-amazon.com/images/I/8165PQGtt-L._AC_UY218_.jpg",
+      "details": [
+        "Screesize & Resuloion: The Sony Xperia 5 V features a 6.1-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Xperia 5 V offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Xperia 5 V offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Smartphone",
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "price": 351,
+      "image": "https://m.media-amazon.com/images/I/51DRuAKTvPL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Xiaomi Redmi Note 13 Pro features a 6.6-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Redmi Note 13 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Redmi Note 13 Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Smartphone",
+      "name": "Google Pixel 8 Pro",
+      "price": 1020,
+      "image": "https://m.media-amazon.com/images/I/71HBgGfmUsL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Google Pixel 8 Pro features a 6.7-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Pixel 8 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Pixel 8 Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Smartphone",
+      "name": "Redmagic 9 Pro",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/61h8kpNMqpL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Redmagic 9 Pro features a 6.8-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Redmagic 9 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Redmagic 9 Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Smartphone",
+      "name": "Honor Magic 5 Pro",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/71ZJ7aVRpYL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Honor Magic 5 Pro features a 6.7-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Magic 5 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Magic 5 Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Smartphone",
+      "name": "Samsung Galaxy Z Fold 5",
+      "price": 1548,
+      "image": "https://m.media-amazon.com/images/I/71w42eF8UBL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Samsung Galaxy Z Fold 5 features a 7.6-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Galaxy Z Fold 5 offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Galaxy Z Fold 5 offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Smartphone",
+      "name": "Motorola Moto Edge40 Pro",
+      "price": 755,
+      "image": "https://m.media-amazon.com/images/I/71NbcMrlZOL._AC_UY218_.jpg",
+      "details": [
+        "Screen size and resolution: The Motorola Moto Edge40 Pro features a 6.7-inch display with an impressive resolution that provides a sharp image.",
+        "Power & Processor: Powered by a powerful processor, the Moto Edge40 Pro offers smooth performance suitable for everyday use and multitasking.",
+        "Storage & Expansion: The smartphone offers plenty of internal storage for apps, games and media. It also supports storage expansion options so users can increase their storage capacity as needed.",
+        "Battery life: With a long battery life, the Moto Edge40 Pro offers reliable performance that lasts all day."
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Notebook",
+      "name": "Acer Aspire 5 | 17.3\" FHD | Intel Core i5-12450H",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/71DwIqm1QAL._AC_SX425_.jpg",
+      "details": [
+        "The Acer Aspire 5 (A517-52-59JY) is a powerful notebook with a 17.3-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Aspire 5 (A517-52-59JY) is the ideal companion for on the go.",
+        "With its 1TB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 8 hours."
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Notebook",
+      "name": "Acer Aspire 3 | 15.6\" FHD | AMD Ryzen 5 7520U",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/61Oh1+TgNmL._AC_SX450_.jpg",
+      "details": [
+        "The Acer Aspire 3 (A315-23-R4J2) is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Aspire 3 (A315-23-R4J2) is the ideal companion for on the go.",
+        "With its 512GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 9 hours."
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Notebook",
+      "name": "Apple 2022 MacBook Air Laptop | M2 Chip: 13,6\"",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/71PWU942AIL._AC_SL1500_.jpg",
+      "details": [
+        "The Apple 2022 MacBook Air is a powerful notebook with a 13.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the MacBook Air is the ideal companion for on the go.",
+        "With its 512GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 12 hours."
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Notebook",
+      "name": "ACEMAGIC Laptop | 15.6\" FHD | 16GB DDR4",
+      "price": 369.99,
+      "image": "https://m.media-amazon.com/images/I/71SoQFbjcAL._AC_SL1500_.jpg",
+      "details": [
+        "The ACEMAGIC Laptop is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the ACEMAGIC Laptop is the ideal companion for on the go.",
+        "With its 1TB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 10 hours."
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Notebook",
+      "name": "Lenovo 15.6\" HD+ | Intel N4020 2",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/51LkNOI6+lL._AC_.jpg",
+      "details": [
+        "The Lenovo Laptop is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Lenovo Laptop is the ideal companion for on the go.",
+        "With its 256GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 8 hours."
+      ]
+    },
+    {
+      "id": 36,
+      "category": "Notebook",
+      "name": "HP Laptop | 17.3\" HD+ | Intel Celeron N4120",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/81Sr-jDlmiL._AC_SL1500_.jpg",
+      "details": [
+        "The HP Laptop is a powerful notebook with a 17.3-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the HP Laptop is the ideal companion for on the go.",
+        "With its 256GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 9 hours."
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Notebook",
+      "name": "Tuofudun 13.5\" | Intel | N100 | Ultra Thin Laptop",
+      "price": 608,
+      "image": "https://m.media-amazon.com/images/I/71yrLh9XTUL._AC_SL1500_.jpg",
+      "details": [
+        "The Tuofudun Laptop is a powerful notebook with a 13.5-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the Tuofudun Laptop is the ideal companion for on the go.",
+        "With its 512GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 10 hours."
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Notebook",
+      "name": "WOZIFAN | 256GB | Win11 | Intel",
+      "price": 229.49,
+      "image": "https://m.media-amazon.com/images/I/71kEzjACD1L._AC_SL1500_.jpg",
+      "details": [
+        "The WOZIFAN Laptop is a powerful notebook with a 15.6-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its slim design and easy operation, the WOZIFAN Laptop is the ideal companion for on the go.",
+        "With its 256GB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 8 hours."
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Notebook",
+      "name": "MSI Katana 17 B13VGK-671 | Gaming | 17.3\" FHD ",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71IK2RLhJiL._AC_SL1500_.jpg",
+      "details": [
+        "The MSI Katana 17 B13VGK-671 is a powerful notebook with a 17.3-inch display.",
+        "It features a powerful processor and offers high performance.",
+        "With its sleek design and easy operation, the Katana 17 B13VGK-671 is the ideal companion for on the go.",
+        "With its 1TB SSD you will have a fast and reliable storage solution.",
+        "The Battery will last up to 10 hours."
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Notebook",
+      "name": "Lenovo LOQ Gaming | 15.6\" FHD Display",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/81L9oKmRaXL._AC_SL1500_.jpg",
+      "details": [
+        "The Lenovo LOQ gaming laptop is a powerful laptop with a 15.6-inch display.",
+        "It has a powerful processor and offers high performance.",
+        "Optimized performance with Lenovo AI Engine+ and NVIDIA® Advanced Optimus.",
+        "With its sleek design and easy operation, the LOQ is the ideal companion for on the go.",
+        "Comprehensive workstation and storage options give you the edge in every league."
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Accessoires",
+      "name": "The Guardian",
+      "price": 137.0,
+      "image": "../notebook/theGuardian.png",
+      "details": [
+        "Adjustable and secure restraint system",
+        "Provides electric shock stimulation for chastity control",
+        "Made from high-quality materials for comfort and durability",
+        "Includes remote control for easy operation",
+        "Rechargeable battery for long-lasting use"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Spicy",
+      "name": "Sansanna Spice",
+      "price": 1000000.0,
+      "image": "../toys/SansannaSpice-DND.gif",
+      "details": [
+        "Spice, also known as synthetic cannabis or synthetic marijuana, is a chemically engineered substance designed to mimic the effects of THC, the active component in natural cannabis.",
+        "It's often smoked or vaporized for its psychoactive effects.",
+        "However, spice can have unpredictable and dangerous side effects, including severe anxiety, hallucinations, paranoia, and even life-threatening complications like seizures and heart attacks.",
+        "It's considered illegal and poses a higher risk of addiction and withdrawal compared to natural cannabis.",
+        "Formally known as Sansanna Spice, from StarWars & Dune. This product is not for sale."
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "user 1",
+      "email": "",
+      "password": "001"
+    },
+    {
+      "id": 2,
+      "name": "Marcel",
+      "email": "",
+      "password": "000"
+    },
+    {
+      "id": 3,
+      "name": "user 3",
+      "email": "",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "name": "user 4",
+      "email": "",
+      "password": "234"
+    },
+    {
+      "id": 5,
+      "name": "user 5",
+      "email": "",
+      "password": "345"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "products": [
+        {
+          "id": 3,
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "products": [
+        {
+          "id": 5,
+          "quantity": 5
+        },
+        {
+          "id": 6,
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "products": [
+        {
+          "id": 7,
+          "quantity": 7
+        },
+        {
+          "id": 8,
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "products": [
+        {
+          "id": 9,
+          "quantity": 9
+        },
+        {
+          "id": 10,
+          "quantity": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 # Amazon Clone
 
-## Hinweise von Ari
+## Hinweise
 
-Bilder im public Ordner
+Bilder und Logos sind im src/assets/img Ordner aufgelistet
 Jeder sollte ca. 10 Produkte im json erstellen und mit users und orders zuordnen (für jeden )
 Wir haben 40 Produkte mit 5 Userdaten (users, orders)
 Jeder sucht 10 Produkte für Elektronik zusammen mit Namen, Bild und Preis
@@ -14,8 +14,8 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 
 ## Arbeitsaufträge
 
-1. Warenkorb
-2. Benutzerauthentifizierung
+1. Warenkorb (Warenkorb Symbol mit counter etabliert, product cards button erstellt und Verlinkung erstellt)
+2. Benutzerauthentifizierung (Login Anmeldung aufgebaut, Daten werden in der Konsole ausgegeben)
 3. Bestellvorgang
 4. Admit-Verwaltung (optional)
 5. Json Server (angefangen, betriebsbereit)
@@ -23,13 +23,12 @@ TailwindCSS, React Icons fa, React Router, json server, concurrently nodemon --s
 
 ## Planungsschritte
 
-Entscheidung über (tendenz live-share) oder mit branches arbeiten
-Entscheidung cra
-Entscheidung Tailwind und/oder Bootstrap
+Wir arbeiten über liveshare, unser Vite-projekt ist auf der Branch refactoring-vite
+Entscheidung Vite (cra verursacht errors postcss module not found und probs mit usecontext)
 Tailwind installiert
-Icons über React-Fontawesome
-desktop first, mobile später responsive anpassen
-einheitliche font-family, colour swatches etc.
+Icons über React-Icons/Fontawesome
+desktop first, mobile später responsive anpassen (✔)
+Wir arbeiten mit react-router Version 6. Daher alle neue codes updaten [](https://reactrouter.com/en/main/start/overview)
 
 ## ChatGPT Plan
 
@@ -80,4 +79,40 @@ Hier ist ein grober Plan für die Erstellung eines Amazon-Klons mit React. Diese
 
 ### Todo
 
-- [ ] Position Fixed am Ende aus dem Footer wieder entfernen
+- [✔] Position Fixed am Ende aus dem Footer wieder entfernen
+
+## CMD 4 Vite
+
+- [x] npm create vite@latest ./ -- --template react
+- [x] npm install -D tailwindcss
+- [x] npx tailwindcss init
+- [x] npm install --legacy-peer-deps -D postcss autoprefixer
+- [x] npx tailwindcss init -p
+- [x] npm install react-router-dom
+- [x] npm install axios
+- [x] npm install react-icons
+- [x] npm install json-server
+- [x] npm install concurrently nodemon --save-dev
+
+OR
+npm create vite@latest ./ -- --template react && npm install -D tailwindcss && npx tailwindcss init && npm install --legacy-peer-deps -D postcss autoprefixer && npx tailwindcss init -p && npm install react-router-dom axios react-icons json-server && npm install concurrently nodemon --save-dev
+
+Danke @VCorvinus hab es schon mal mithilfe deiner Liste soweit installiert ;-)
+
+npm run cdev (für das Öffnen von vite und json)
+
+Changed Login to LoginPage
+Corrected path in Routes
+Added LoginForm
+
+# Extras
+
+1. Produktbewertungen und -kommentare: Ermögliche Benutzern das Hinterlassen von Bewertungen und Kommentaren für Produkte. Speichere diese Daten im json-server und stelle sie auf den Produktseiten dar.
+
+2. Suchfunktion und Filter: Implementiere eine Suchleiste und Filteroptionen (z.B. nach Kategorie, Preis, Bewertung), um das Finden von Produkten zu erleichtern.
+
+3. Produktdetailseite: Erstelle detaillierte Produktseiten, die neben den Grundinformationen auch Bilder, Bewertungen und ähnliche Produktvorschläge anzeigen.
+
+4. Mehrstufiger Checkout-Prozess: Gestalte den Checkout-Prozess interaktiver, indem du mehrere Schritte einführst (z.B. Adressauswahl, Zahlungsmethode, Bestellübersicht).
+
+5. Implementiere ein Coupon-System, das es Benutzern ermöglicht, Rabattcodes beim Checkout einzulösen, um Preisnachlässe auf ihre Bestellungen zu erhalten.
