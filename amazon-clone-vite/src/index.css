@@ -1,5 +1,6 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -144,4 +145,13 @@ input:focus {
   background-color: #9a8ec583;
   color: #000;
   text-shadow: #004e6159 1px 1px 2px;
+}
+
+.category-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  padding: 1em;
+  background-color: #e9e7ff;
 }
