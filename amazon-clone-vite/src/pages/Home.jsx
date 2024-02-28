@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import PropTypes from "prop-types";
-import ShoppingCart from "./ShoppingCart";
-import Header from "../components/Header/Header";
-import db from "../db.json";
+// import ShoppingCart from "./ShoppingCart";
+// import Header from "../components/Header/Header";
+// import db from "../db.json";
 
 const Home = ({ products, addToCart, itemCount }) => {
   const [isCartOpen, setIsCartOpen] = useState(false);
